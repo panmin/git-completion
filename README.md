@@ -10,7 +10,7 @@
 2. git-tab重命名为.git-completion.bash到～/目录下
 
    ```shell
-   mv git-tab ~/.git-completion.bash
+   mv git-tab.bash ~/.git-completion.bash
    ```
 
 3. 配置~/.bash_profile文件
